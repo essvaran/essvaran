@@ -5,5 +5,5 @@
 - Possess a strong aptitude for learning new technologies and frameworks.
 - Aspiring to collaborate with experienced developers and mentors to enhance technical skills, expand professional networks, and achieve personal and professional growth in the field of software engineering.
 
-[LinkedIn](www.linkedin.com/in/essvaran)
+[LinkedIn](https://www.linkedin.com/in/essvaran)
 
