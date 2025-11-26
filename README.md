@@ -1,7 +1,7 @@
 # I am Essvaran
 
 ## SUMMARY
-- 1.5 years of end-to-end experience in the full software development life cycle (SDLC), from requirement analysis and architecture design to coding, testing, deployment, and post-production support across diverse client projects.  
+- 4+ years of end-to-end experience in the full software development life cycle (SDLC), from requirement analysis and architecture design to coding, testing, deployment, and post-production support across diverse client projects.  
 - Strong expertise in **C# and .NET Core/.NET 6**, with a focus on building scalable, maintainable, and high-performance web applications and microservices.  
 - Designed and implemented **RESTful Web APIs and microservices**, applying **CQRS pattern with MediatR** for separation of commands and queries, improving maintainability, performance, and scalability of backend services.  
 - Hands-on experience in **API Gateway integration using Ocelot** to centralize routing, rate limiting, caching, and request aggregation across distributed microservices.  
